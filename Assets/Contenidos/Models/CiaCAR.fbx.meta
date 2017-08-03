@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 69213620bd717744586fe22d67e11636
+timeCreated: 1447341768
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BumFrontal
+    100002: BumpTrasero
+    100004: Camera
+    100006: //RootNode
+    100008: CuerpoCarro
+    100010: SkyCarMudGuardFrontLeft
+    100012: SkyCarMudGuardFrontRight
+    100014: SkyCarSuspensionFrontLeft
+    100016: SkyCarSuspensionFrontRight
+    100018: SkyCarWheelFrontLeft
+    100020: SkyCarWheelFrontRight
+    100022: SkyCarWheelRearLeft
+    100024: SkyCarWheelRearRight
+    100026: SuspDereSup
+    100028: SuspDerInf
+    100030: SuspIzqInf
+    100032: SuspIzqSup
+    400000: BumFrontal
+    400002: BumpTrasero
+    400004: Camera
+    400006: //RootNode
+    400008: CuerpoCarro
+    400010: SkyCarMudGuardFrontLeft
+    400012: SkyCarMudGuardFrontRight
+    400014: SkyCarSuspensionFrontLeft
+    400016: SkyCarSuspensionFrontRight
+    400018: SkyCarWheelFrontLeft
+    400020: SkyCarWheelFrontRight
+    400022: SkyCarWheelRearLeft
+    400024: SkyCarWheelRearRight
+    400026: SuspDereSup
+    400028: SuspDerInf
+    400030: SuspIzqInf
+    400032: SuspIzqSup
+    2300000: BumFrontal
+    2300002: BumpTrasero
+    2300004: CuerpoCarro
+    2300006: SkyCarMudGuardFrontLeft
+    2300008: SkyCarMudGuardFrontRight
+    2300010: SkyCarSuspensionFrontLeft
+    2300012: SkyCarSuspensionFrontRight
+    2300014: SkyCarWheelFrontLeft
+    2300016: SkyCarWheelFrontRight
+    2300018: SkyCarWheelRearLeft
+    2300020: SkyCarWheelRearRight
+    2300022: SuspDereSup
+    2300024: SuspDerInf
+    2300026: SuspIzqInf
+    2300028: SuspIzqSup
+    3300000: BumFrontal
+    3300002: BumpTrasero
+    3300004: CuerpoCarro
+    3300006: SkyCarMudGuardFrontLeft
+    3300008: SkyCarMudGuardFrontRight
+    3300010: SkyCarSuspensionFrontLeft
+    3300012: SkyCarSuspensionFrontRight
+    3300014: SkyCarWheelFrontLeft
+    3300016: SkyCarWheelFrontRight
+    3300018: SkyCarWheelRearLeft
+    3300020: SkyCarWheelRearRight
+    3300022: SuspDereSup
+    3300024: SuspDerInf
+    3300026: SuspIzqInf
+    3300028: SuspIzqSup
+    4300000: SkyCarMudGuardFrontRight
+    4300002: SkyCarSuspensionFrontRight
+    4300004: SkyCarSuspensionFrontLeft
+    4300006: SkyCarMudGuardFrontLeft
+    4300008: SkyCarWheelFrontLeft
+    4300010: SkyCarWheelFrontRight
+    4300012: SkyCarWheelRearRight
+    4300014: SkyCarWheelRearLeft
+    4300016: SuspDereSup
+    4300018: SuspDerInf
+    4300020: SuspIzqInf
+    4300022: SuspIzqSup
+    4300024: BumFrontal
+    4300026: BumpTrasero
+    4300028: CuerpoCarro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
